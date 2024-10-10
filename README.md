@@ -1,0 +1,1 @@
+Wilkommen zu Sweety, einem Süßigkeitenshop für alle Wünsche.

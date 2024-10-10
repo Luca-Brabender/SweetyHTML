@@ -35,33 +35,3 @@ arr.forEach((item) => {
     `;
     document.getElementById("product_list").innerHTML += content;
 });
-
-/*const content = `
-            <div class="card">
-                <img src="pics/donuts.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                  <h4><b>Donuts</b></h4>
-                  <p>Zucker Pur</p>
-                </div>
-            </div>
-              
-            <div class="card">
-                <img src="pics/cheesecake.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                  <h4><b>Cheesecake</b></h4>
-                  <p>Cheesy cakes</p>
-                </div>
-            </div> 
-
-            <div class="card">
-                <img src="pics/donuts.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                  <h4><b>Cupcakes</b></h4>
-                  <p>Delicious</p>
-                </div>
-            </div> 
-`;*/
-
-//document.getElementById("product_list").innerHTML += content;
-
-
